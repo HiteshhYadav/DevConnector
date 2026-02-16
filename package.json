@@ -15,6 +15,7 @@
     "config": "^4.3.0",
     "express": "^5.2.1",
     "express-validator": "^7.3.1",
+    "gravatar": "^1.8.2",
     "gravator": "^1.0.2",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.1",
