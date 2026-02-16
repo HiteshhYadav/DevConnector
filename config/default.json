@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://hitesh123:hitesh123@devconnector.gwdgccz.mongodb.net/?appName=DevConnector",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "Ov23liX0mWKNBDFCERPV",
-    "githubSecret": "8d8c152fd2dd45d34d1c919c9d3802222995028b"
+    "mongoURI": "",
+    "jwtSecret": "",
+    "githubClientId": "",
+    "githubSecret": ""
 }
